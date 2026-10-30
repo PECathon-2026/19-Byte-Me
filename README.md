@@ -199,6 +199,7 @@ Run from the project root after dependency installation:
 npm.cmd run check
 node scripts/test-app-boot.cjs
 node scripts/test-feed-handling.cjs
+node scripts/test-wordpress-reader.cjs
 node scripts/test-reader-extraction.cjs
 node scripts/test-offline-first.cjs
 node scripts/test-feed-refresh.cjs
